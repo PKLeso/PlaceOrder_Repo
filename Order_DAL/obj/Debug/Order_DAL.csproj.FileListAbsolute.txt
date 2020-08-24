@@ -1,0 +1,1 @@
+C:\Users\KLeso\Documents\2020\Invest T\tech-test-master\tech-test-master\TechTest\Order_DAL\obj\Debug\Order_DAL.csproj.CoreCompileInputs.cache

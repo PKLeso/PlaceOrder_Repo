@@ -1,0 +1,17 @@
+C:\Users\KLeso\Documents\2020\Invest T\tech-test-master\tech-test-master\TechTest\AnyCompany.Tests\bin\Debug\xunit.abstractions.dll
+C:\Users\KLeso\Documents\2020\Invest T\tech-test-master\tech-test-master\TechTest\AnyCompany.Tests\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\Users\KLeso\Documents\2020\Invest T\tech-test-master\tech-test-master\TechTest\AnyCompany.Tests\bin\Debug\xunit.runner.reporters.net452.dll
+C:\Users\KLeso\Documents\2020\Invest T\tech-test-master\tech-test-master\TechTest\AnyCompany.Tests\bin\Debug\xunit.runner.utility.net452.dll
+C:\Users\KLeso\Documents\2020\Invest T\tech-test-master\tech-test-master\TechTest\AnyCompany.Tests\bin\Debug\AnyCompany.Tests.dll
+C:\Users\KLeso\Documents\2020\Invest T\tech-test-master\tech-test-master\TechTest\AnyCompany.Tests\bin\Debug\AnyCompany.Tests.pdb
+C:\Users\KLeso\Documents\2020\Invest T\tech-test-master\tech-test-master\TechTest\AnyCompany.Tests\bin\Debug\xunit.assert.dll
+C:\Users\KLeso\Documents\2020\Invest T\tech-test-master\tech-test-master\TechTest\AnyCompany.Tests\bin\Debug\xunit.core.dll
+C:\Users\KLeso\Documents\2020\Invest T\tech-test-master\tech-test-master\TechTest\AnyCompany.Tests\bin\Debug\xunit.execution.desktop.dll
+C:\Users\KLeso\Documents\2020\Invest T\tech-test-master\tech-test-master\TechTest\AnyCompany.Tests\bin\Debug\xunit.assert.xml
+C:\Users\KLeso\Documents\2020\Invest T\tech-test-master\tech-test-master\TechTest\AnyCompany.Tests\bin\Debug\xunit.core.xml
+C:\Users\KLeso\Documents\2020\Invest T\tech-test-master\tech-test-master\TechTest\AnyCompany.Tests\bin\Debug\xunit.execution.desktop.xml
+C:\Users\KLeso\Documents\2020\Invest T\tech-test-master\tech-test-master\TechTest\AnyCompany.Tests\obj\Debug\Order.Tests.csprojAssemblyReference.cache
+C:\Users\KLeso\Documents\2020\Invest T\tech-test-master\tech-test-master\TechTest\AnyCompany.Tests\obj\Debug\Order.Tests.csproj.CoreCompileInputs.cache
+C:\Users\KLeso\Documents\2020\Invest T\tech-test-master\tech-test-master\TechTest\AnyCompany.Tests\obj\Debug\Order.Tests.csproj.CopyComplete
+C:\Users\KLeso\Documents\2020\Invest T\tech-test-master\tech-test-master\TechTest\AnyCompany.Tests\obj\Debug\AnyCompany.Tests.dll
+C:\Users\KLeso\Documents\2020\Invest T\tech-test-master\tech-test-master\TechTest\AnyCompany.Tests\obj\Debug\AnyCompany.Tests.pdb
