@@ -6,7 +6,7 @@ namespace Order.BusinessLayer.Abstract_Interface
 	{
 		IEnumerable<Order_DataAccessLayer.Model.Order> GetOrders();
 
-		void AddOrder(Order_DataAccessLayer.Model.Order order);
+		Order_DataAccessLayer.Model.Order AddOrder(Order_DataAccessLayer.Model.Order order);
 
 
 		void UpdateOrder(Order_DataAccessLayer.Model.Order order);

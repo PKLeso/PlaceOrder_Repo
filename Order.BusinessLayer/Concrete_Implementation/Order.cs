@@ -16,12 +16,13 @@ namespace Order.BusinessLayer.Concrete_Implementation
 			_context = context;
 		}
 
-		public void AddOrder(Order_DataAccessLayer.Model.Order order)
+		public Order_DataAccessLayer.Model.Order AddOrder(Order_DataAccessLayer.Model.Order order)
 		{
 			try
 			{
 				_context.Orders.Add(order);
 				Commit();
+				return order;
 			}
 			catch (System.Data.Entity.Validation.DbEntityValidationException dbEx)
 			{

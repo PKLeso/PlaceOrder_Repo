@@ -9,8 +9,8 @@
     <ProjectGuid>{CD5D577E-BDC9-4DFC-AC6A-B1DA474995F3}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>AnyCompany.Tests</RootNamespace>
-    <AssemblyName>AnyCompany.Tests</AssemblyName>
+    <RootNamespace>Order.Tests</RootNamespace>
+    <AssemblyName>Order.Tests</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <NuGetPackageImportStamp>
@@ -72,22 +72,22 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="CustomerOrder.cs" />
-    <Compile Include="GetOrderById_Test.cs" />
-    <Compile Include="ModelDTO_Tests\CustomerOrderDTO.cs" />
-    <Compile Include="Order_Business_Layer_Tests\Abstract_Interface\ICustomer.cs" />
-    <Compile Include="Order_Business_Layer_Tests\Abstract_Interface\ICustomerOrder.cs" />
-    <Compile Include="Order_Business_Layer_Tests\Abstract_Interface\IOrder.cs" />
-    <Compile Include="Order_Business_Layer_Tests\Concrete_Implementation\Customer.cs" />
-    <Compile Include="Order_Business_Layer_Tests\Concrete_Implementation\CustomerOrder.cs" />
-    <Compile Include="Order_Business_Layer_Tests\Concrete_Implementation\Order.cs" />
-    <Compile Include="Order_DataAccessLayer_Tests\Model\Customer.cs" />
-    <Compile Include="Order_DataAccessLayer_Tests\Model\CustomerOrder.cs" />
-    <Compile Include="Order_DataAccessLayer_Tests\Model\Order.cs" />
+    <Compile Include="Order_Business_Layer_Tests\Concrete_Implementation_Tests\CustomerTests.cs" />
+    <Compile Include="Order_Business_Layer_Tests\Concrete_Implementation_Tests\CustomerOrderTests.cs" />
+    <Compile Include="Order_Business_Layer_Tests\Concrete_Implementation_Tests\OrderTests.cs" />
+    <Compile Include="ModelDTO_Tests\CustomerOrderDTOTests.cs" />
+    <Compile Include="Order_Business_Layer_Tests\Abstract_Interface_Tests\ICustomerTests.cs" />
+    <Compile Include="Order_Business_Layer_Tests\Abstract_Interface_Tests\ICustomerOrderTests.cs" />
+    <Compile Include="Order_Business_Layer_Tests\Abstract_Interface_Tests\IOrderTests.cs" />
+    <Compile Include="Test_Cases\CustomerTests.cs" />
+    <Compile Include="Test_Cases\CustomerOrderServiceTests.cs" />
+    <Compile Include="Test_Cases\OrderServiceTests.cs" />
+    <Compile Include="Order_DataAccessLayer_Tests\Model\CustomerTests.cs" />
+    <Compile Include="Order_DataAccessLayer_Tests\Model\CustomerOrderTests.cs" />
+    <Compile Include="Order_DataAccessLayer_Tests\Model\OrderTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="GetAllCustomerOrders_Test.cs" />
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>

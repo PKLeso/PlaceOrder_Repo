@@ -8,7 +8,7 @@ namespace Order.Tests.Order_Business_Layer_Tests.Abstract_Interface
 {
 	public interface ICustomerOrderTests
 	{
-		void GetAllCustomerOrders();
+		IEnumerable<CustomerOrderDTOTests> GetAllCustomerOrders();
 
 		void GetOrderByCustomerId(int CustomerId);
 	}
